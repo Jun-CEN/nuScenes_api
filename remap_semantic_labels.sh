@@ -1,0 +1,1 @@
+python remap_semantic_labels.py --predictions /harddisk/jcenaa/semantic_kitti/predictions --split valid --inverse
